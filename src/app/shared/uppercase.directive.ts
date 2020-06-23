@@ -17,4 +17,6 @@ export class UppercaseDirective {
   private transform(textTransform: string): void {
     this.el.nativeElement.style.textTransform = textTransform;
   }
+
+
 }
