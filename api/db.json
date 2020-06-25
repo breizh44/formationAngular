@@ -1,13 +1,6 @@
 {
   "animals": [
     {
-      "id": 1,
-      "name": "Idéfix",
-      "species": "dog",
-      "veterinarian": "Panoramix D'Armorique",
-      "comment": "Développe une allergie à la potion magique."
-    },
-    {
       "id": 2,
       "name": "Chatbus",
       "species": "cat",
